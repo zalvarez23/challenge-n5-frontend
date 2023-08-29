@@ -27,7 +27,9 @@ Prueba tecnica N5 - Microfronts
 
 ## Instalación
 
-1. Instala las dependencias: `npm install` de preferencia la version del node indicado lineas arriba.
+1. Instala las dependencias, ingresar al app-container-mf: `npm install` de preferencia la version del node indicado lineas arriba.
+1. Instala las dependencias, ingresar al app-movie-one-mf: `npm install` de preferencia la version del node indicado lineas arriba.
+1. Instala las dependencias, ingresar al app-movie-two-mf: `npm install` de preferencia la version del node indicado lineas arriba.
 
 ## Descripción
 
