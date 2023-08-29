@@ -22,7 +22,7 @@ Prueba tecnica N5 - Microfronts
 ## Adicional
 
 - Unit test
-- Patrones de diseño (singleton, repository, injección de dependencias)
+- Patrones de diseño (singleton, repository, inyección de dependencias)
 - MicroFrontend
 
 ## Instalación
